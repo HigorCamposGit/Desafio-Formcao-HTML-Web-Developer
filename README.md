@@ -138,7 +138,7 @@ No rodapé da página, foram incluídos links de referência reais para aprofund
             <li><a href="[https://www.w3.org/](https://www.w3.org/)" target="_blank">W3C - World Wide Web Consortium</a></li>
             <li><a href="[https://www.youtube.com/results?search_query=curso+html5+para+iniciantes](https://www.youtube.com/results?search_query=curso+html5+para+iniciantes)" target="_blank">Pesquisar Vídeos de HTML no YouTube</a></li>
         </ul>
-        <p><small>&copy; 2026 Higor deCAmpos - Projeto do Desafio DIO: Formação HTML Web Developer</small></p>
+        <p><small>&copy; 2026 - Higor de Campos - Projeto do Desafio DIO: "Formação HTML Web Developer"</small></p>
     </footer>
 
 </body>
