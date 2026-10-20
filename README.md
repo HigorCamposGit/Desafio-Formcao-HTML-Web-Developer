@@ -46,6 +46,7 @@ No rodapé da página, foram incluídos links de referência reais para aprofund
 * [W3C - World Wide Web Consortium](https://www.w3.org/)
 
 ---
+Markdown
 ## 💻 Código Fonte (`index.html`)
 
 ```html
