@@ -46,3 +46,10 @@ No rodapé da página, foram incluídos links de referência reais para aprofund
 * [W3C - World Wide Web Consortium](https://www.w3.org/)
 
 ---
+## 💻 Código Fonte (`index.html`)
+
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<!-- ... todo o seu código aqui ... -->
+</html>
