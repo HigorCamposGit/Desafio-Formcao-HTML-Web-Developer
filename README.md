@@ -1,19 +1,19 @@
 # Desafio - Formação HTML Web Developer.
-# Desafio de Projeto DIO: Criando uma Página Básica com HTML
+# Desafio de Projeto DIO: Criando uma Página Básica com HTML.
 
 Este repositório contém o código-fonte de um website básico desenvolvido como parte do Desafio de Projeto da **DIO (Digital Innovation One)**. O objetivo principal é praticar e consolidar o uso das tags fundamentais do HTML aprendidas durante as aulas práticas.
 
 ---
 
-## 🎯 Sobre o Desafio
+## 🎯 Sobre o Desafio.
 
 Foi elaborar um website estruturado de forma simples, funcionando como um mini blog/tutorial educativo. Foram aplicadas tanto as tags essenciais explicadas em aula quanto novas tags pesquisadas para expandir o conhecimento, reforçando que esses conceitos serão a base para todo o curso de desenvolvimento web.
 
 ---
 
-## 🛠️ Tags Utilizadas no Projeto
+## 🛠️ Tags Utilizadas no Projeto.
 
-### 1. Tags Aprendidas em Aula
+### 1. Tags Aprendidas em Aula.
 * **Cabeçalhos:** `<h1>` até `<h6>` (estruturação hierárquica do texto).
 * **Parágrafos e Linhas:** `<p>`, `<hr>`.
 * **Formatação e Ênfase:** `<strong>`, `<i>`, `<u>`, `<mark>`, `<small>`.
@@ -22,14 +22,14 @@ Foi elaborar um website estruturado de forma simples, funcionando como um mini b
 * **Listas:** `<ol>` (ordenada), `<ul>` (não ordenada), `<li>` (itens de lista).
 * **Navegação (Âncoras):** `<a>` (links externos e internos para navegação na mesma página).
 
-### 2. Novas Tags Pesquisadas e Aplicadas
+### 2. Novas Tags Pesquisadas e Aplicadas.
 * `<abbr>`: Usada para definir abreviações com descrições.
 * `<del>`: Usada para indicar texto excluído/removido (riscado).
 * `<font>`: Utilizada para customização visual básica.
 
 ---
 
-## 📂 Estrutura dos Assuntos na Página
+## 📂 Estrutura dos Assuntos na Página.
 
 A página foi dividida em três seções principais em formato de tutorial:
 1. **Como Surgiu O HTML:** Breve histórico sobre a criação da linguagem por Tim Berners-Lee.
@@ -40,12 +40,18 @@ Cada seção conta com recursos de navegação interna (rolagem suave via âncor
 
 ---
 
-## 🔗 Referências e Rodapé
+## 🔗 Referências e Rodapé.
 No rodapé da página, foram incluídos links de referência reais para aprofundamento nos estudos:
 * [MDN Web Docs - Guia de HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [W3C - World Wide Web Consortium](https://www.w3.org/)
 
 ---
 
-## 🚀 Como Visualizar
-Você pode clonar este repositório ou visualizar o arquivo `index.html` diretamente em qualquer navegador web de sua preferência.
+## 🚀 Como Visualizar.
+## 💻 Código Fonte (`index.html`)
+
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<!-- ... todo o seu código aqui ... -->
+</html>
